@@ -2,9 +2,6 @@
 
 ## Lab 05: Form Validation & Sticky Positioning
 
-**Due**: Sunday @ 23:55 Edmonton Time
-
-**Weight**: 5% of your final grade
 
 ---
 
